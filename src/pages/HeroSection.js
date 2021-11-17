@@ -10,7 +10,7 @@ const HeroSection = () => {
           <div className="heroflex">
             <div className="textflex">
               <img src={hlo} alt="" className="hlo"/>
-              <p>hyperLocalization and More!</p>
+              <p>Save crops, Save lives!</p>
               <div className="buttons">
                 <a href="https://app.flytnow.com/app/dashboard/"  rel="noreferrer" target="_blank">
                     <button className="btn-download">TRY IT</button>
